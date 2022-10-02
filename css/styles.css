@@ -21,3 +21,13 @@ h2 {
     color: #5E8B7E;
     font-family: 'Raleway', sans-serif;
 }
+
+/*******************CLASS SELECTORS********************/
+
+.circular {
+    border-radius: 100%;
+}
+
+.button:hover {
+    background-color: beige;
+}
