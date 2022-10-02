@@ -2,6 +2,8 @@ body {
     background-color: #DFEEEA;
     font-family: 'Lora', serif;
     color: #2F5D62;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 hr {
@@ -19,11 +21,12 @@ h1 {
 }
 
 h2 {
+    text-align: center;
     color: #5E8B7E;
     font-family: 'Raleway', sans-serif;
 }
 
-/*******************CLASS SELECTORS********************/
+/*CLASS SELECTORS*/
 
 .circular {
     border-radius: 100%;
