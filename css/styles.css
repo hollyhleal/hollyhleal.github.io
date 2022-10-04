@@ -37,6 +37,10 @@ th, td {
     border-radius: 100%;
 }
 
+.overview-container {
+    text-align: center;
+}
+
 .button {
     display: inline-block;
     border-radius: 50%;
