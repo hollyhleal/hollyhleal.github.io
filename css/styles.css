@@ -37,6 +37,15 @@ th, td {
     border-radius: 100%;
 }
 
-.button:hover {
-    background-color: beige;
+.button {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #2F5D62;
+    border: none;
+    color: beige;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: 0.5s;
 }
