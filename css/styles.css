@@ -37,6 +37,11 @@ th, td {
     border-radius: 100%;
 }
 
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
 .overview-container {
     text-align: center;
 }
