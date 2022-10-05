@@ -38,7 +38,7 @@ th, td {
 }
 
 .responsive {
-    width: 30%;
+    width: auto;
     height: auto;
 }
 
